@@ -13,4 +13,9 @@ body {
 
 button {
     background-color:#F1FFE7;
+    color:#C2E7DA;
+}
+
+button:hover {
+    background-color:#BAFF29; 
 }
