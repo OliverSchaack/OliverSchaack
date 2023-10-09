@@ -7,8 +7,9 @@ Color 4 - #1A1B41
 Color 5 - #BAFF29
 */
 
-body {text-align: center
-     background-color:#6290C3;
+body {
+    text-align: center;
+    background-color:#6290C3;
 }
 button {
     background-color:#F1FFE7;
@@ -16,7 +17,7 @@ button {
     width: 200px;
     padding: 10px;
     border:none;
-    margin:50px;
+    border-radius: 10px
 }
 
 button:hover {
@@ -28,5 +29,5 @@ h1 {
 }
 
 h2{
-    font-family:'Serif','Georgia'
+    font-family:'Serif','Raleway'
 }
