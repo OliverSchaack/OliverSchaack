@@ -8,16 +8,15 @@ Color 5 - #BAFF29
 */
 
 body {text-align: center
-    background-color:#6290C3;
+     background-color:#6290C3;
 }
-margin:50px;
 button {
     background-color:#F1FFE7;
     color:#1A1B41;
     width: 200px;
     padding: 10px;
     border:none;
-    border-radius: 8px;
+    margin:50px;
 }
 
 button:hover {
