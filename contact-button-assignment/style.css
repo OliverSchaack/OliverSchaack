@@ -19,3 +19,11 @@ button {
 button:hover {
     background-color:#BAFF29; 
 }
+
+h1 {
+    font-family:'Sans-serif','Helvetica'
+}
+
+h2{
+    font-family:'Serif','Georgia'
+}
