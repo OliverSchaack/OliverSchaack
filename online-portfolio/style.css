@@ -1,15 +1,83 @@
+
+@media {
+    
+
+    
 img{
-    width:100%;
+    width:50%;
 }
+    
+body{
+ background-color:cornflowerblue;      
+    }
+
+#topper {
+   text-align: center;
+    justify-content: center;
+    }
 
 h1{
-  margin:0px 200px 0px 0px;  
+  margin:0px 0px 0px 0px;
+  font-size:50px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 h2{
-  margin:0px 200px 0px 0px;  
+  margin:0px 0px 0px 0px;
+  font-size:30px;
+  font-family: 'Edu TAS Beginner', cursive;
+  
 }
 
 h3{
- margin:0px 200px 0px 0px;   
+ margin:0px 0px 0px 0px;
+ font-family: 'Edu TAS Beginner', cursive;
+font-family: 'Merriweather', serif;
 }
+
+h4{
+ margin: 0px 0px 0px 0px
+    }
+    
+h5{
+ margin:0px 0px 0px 0px
+    }
+    
+li{
+        
+    }
+.nav {
+  justify-content: center;      
+    }
+
+#footer {
+    position:fixed;
+    bottom:0px;
+    background-color:white;
+    color:black;
+    text-align:center;
+    }
+    
+#info{
+    margin:0px 0px 50px 0px;
+    }
+    
+.button{background-color: #AA6A41;
+  border:none;
+  color:white;
+  border-radius:10px;
+  padding:10px 20px 10px 20px;
+}
+
+@media (min-width:576px) {
+    img{
+    width:25%;    
+    }
+    h1{
+    font-size:100px;    
+    }
+    h2{
+    font-size:60px;    
+    }
+    
+} 
