@@ -1,0 +1,92 @@
+.lead-image{
+    width:70%;
+}
+
+.second-image{
+    width:70%;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.third-image{
+    width:80%;
+    margin-left: auto;
+    margin-right:auto;  
+}
+
+.pquote{
+    float: left;
+    width: 100%;
+    background: #a6a6a6;
+    color:#5ce1e6;
+    font-weight: bold;
+    padding: 8px;
+    margin: 0 13px 13px 0;
+}
+
+h1{
+    text-align: center;
+    font-family:'Monospace','Courier New';
+    color: #A20808;
+    font-weight:bold;
+}
+
+h2{
+    text-align:center;
+    font-family:'Monospace','Courier New';
+    color: #004aad;
+}
+
+h3{
+   text-align: center;
+    font-family:'Monospace','Courier New';
+   color: #004aad;
+    font-size: 40px
+}
+
+h4{
+   font-family:'Monospace','Courier New';
+   color: #004aad;
+   font-size: 40px;
+}
+
+h5{
+   font-family:'Monospace','Courier New';
+   color: #004aad;
+   font-size: 40px;
+}
+
+h6{
+   font-family:'Monospace','Courier New';
+   color: #004aad;
+   font-size: 40px;
+}
+
+h7{
+   font-family:'Monospace','Courier New';
+   color: #004aad;
+   font-size: 40px;
+}
+
+h8{
+   font-family:'Monospace','Courier New';
+   color: #004aad;
+   font-size: 40px;
+}
+
+p{
+    color:#A20808;
+    font-family:'fantasy', 'Papyrus';
+}
+
+button{
+  background-color:#ffffff;
+  border-color:#004aad;
+  color:white;
+  border-radius:10px;
+  padding:10px 20px 10px 20px;  
+}
+
+button:hover{
+    background-color: #152616;
+}
